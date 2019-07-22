@@ -17,6 +17,13 @@ Make a new repo on GitHub.com so you can copy the URL:
 `git push origin master`: push to GitHub.com!!!
 
 
+### pulling from git
+
+`git clone ...`: clone a repo
+
+`git pull origin master`: pulling new changes from git
+
+
 ### notes:
 
 `.gitignore`: this file lets you set which files and folders are ignored by git
@@ -24,8 +31,4 @@ Make a new repo on GitHub.com so you can copy the URL:
 
 want to have node modules and gitignore when making new things
 
-### pulling from git
-
-`git clone ...`: clone a repo
-
-`git pull origin master`: pulling new changes from git
+`git status`: you can run this to check status of your commit
