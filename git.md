@@ -21,6 +21,10 @@ Make a new repo on GitHub.com so you can copy the URL:
 
 `git clone ...`: clone a repo
 
+    make sure it is not inside of another project
+
+`git remote set-url master LINK`: to set url of repository to cloned thing
+
 `git pull origin master`: pulling new changes from git
 
 
