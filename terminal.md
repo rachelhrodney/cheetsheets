@@ -34,3 +34,11 @@
 
 `npm run build`: builds your project, puts all the final code in the "build" folder
 
+### firebase
+
+`firebase login`: logs you into firebase
+
+`firebase init`: inits a new firebase project
+
+`firebase deploy`: deploys your project
+
